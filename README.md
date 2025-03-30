@@ -38,11 +38,13 @@
 <h2 id='tables'> Tab. 5: To Reviewer QUw9, ablation experiments on different texts.</h2>
 <img src="tables/1.png">
 
-<h2 id='tables'> Tab. 6-8: To Reviewer duVQ, quantitative comparison with SeAFusion and MetaFusion for semantic segmentation and object detection tasks.</h2>
+<h2 id='tables'> Tab. 6: To Reviewer duVQ, quantitative comparison with SeAFusion and MetaFusion for semantic segmentation.</h2>
 <img src="tables/7.png">
 
+<h2 id='tables'> Tab. 7: To Reviewer duVQ, quantitative comparison with SeAFusion and MetaFusion for object detection (AP@0.5).</h2>
 <img src="tables/5.png">
 
+<h2 id='tables'>To Reviewer duVQ, quantitative comparison with SeAFusion and MetaFusion for object detection (AP@[0.5 : 0.9]).</h2>
 <img src="tables/6.png">
 
 
