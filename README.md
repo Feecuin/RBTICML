@@ -30,6 +30,7 @@
 <img src="tables/4.png">
 
 <h2 id='tables'> Tab. 3: To Reviewer sVxU, the quantitative experimental results in standard scenarios (LLVIP).</h2>
+<img src="tables/9.png">
 
 <h2 id='tables'> Tab. 4: To Reviewer sVxU, CLIP global information ablation experiment in snow scenes.</h2>
 <img src="tables/2.png">
