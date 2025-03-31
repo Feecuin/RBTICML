@@ -16,7 +16,7 @@
 <h2 id='figures'> Fig. 5: To Reviewer sVxU and QUw9, the experimental results in standard scenarios (LLVIP, MSRS, M3FD).</h2>
 <img src="figures/5_00.jpg">
 
-<h2 id='figures'> Fig. 6: xxxxxxxxxx</h2>
+<h2 id='figures'>Fig. 6: To Reviewer sVxU, examples of global and local text.</h2>
 <img src="figures/6.jpg">
 
 <h2 id='figures'> Fig. 7: To Reviewer QUw9, the experimental results in fog.</h2>
