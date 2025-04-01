@@ -38,7 +38,7 @@
 <h2 id='tables'> Tab. 4: To Reviewer sVxU, CLIP global information ablation experiment in snow scenes.</h2>
 <img src="tables/2.png">
 
-<h2 id='tables'> Tab. 5: To Reviewer QUw9, ablation experiments on different texts.</h2>
+<h2 id='tables'> Tab. 5: To Reviewer QUw9, different texts ablation experiments in snow scenes.</h2>
 <img src="tables/1.png">
 
 <h2 id='tables'> Tab. 6: To Reviewer duVQ, quantitative comparison with SeAFusion and MetaFusion for semantic segmentation.</h2>
