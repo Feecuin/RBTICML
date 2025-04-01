@@ -47,7 +47,7 @@
 <h2 id='tables'> Tab. 7: To Reviewer duVQ, quantitative comparison with SeAFusion and MetaFusion for object detection (AP@0.5).</h2>
 <img src="tables/5.png">
 
-<h2 id='tables'> Tab. 8: To Reviewer duVQ, quantitative comparison with SeAFusion and MetaFusion for object detection (AP@[0.5 : 0.9]).</h2>
+<h2 id='tables'> Tab. 8: To Reviewer duVQ, quantitative comparison with SeAFusion and MetaFusion for object detection (mAP@[0.5 : 0.9]).</h2>
 <img src="tables/6.png">
 
 
