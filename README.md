@@ -17,7 +17,7 @@
 <img src="figures/5_00.jpg">
 
 <h2 id='figures'>Fig. 6: To Reviewer sVxU, examples of global and local text.</h2>
-<img src="figures/6.jpg">
+<img src="figures/6.png">
 
 <h2 id='figures'> Fig. 7: To Reviewer QUw9, the experimental results in fog.</h2>
 <img src="figures/7_00.jpg">
