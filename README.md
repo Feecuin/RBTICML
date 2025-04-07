@@ -25,6 +25,9 @@
 <h2 id='figures'> Fig. 8: To Reviewer duVQ and QUw9, the experimental results in real scenarios.</h2>
 <img src="figures/8_00.jpg">
 
+<h2 id='figures'> Fig. 9: To Reviewer duVQ, fusion results guided by different texts.</h2>
+<img src="figures/Time.jpg">
+
 <h1>Table</h1>
 <h2 id='tables'> Tab. 1: To Reviewer sVxU, the quantitative experimental results in standard scenarios (M3FD).</h2>
 <img src="tables/M3FD.png">
